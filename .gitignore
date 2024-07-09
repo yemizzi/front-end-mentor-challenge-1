@@ -20,5 +20,5 @@
 
 # this ignores the defualt readme files
 
-README-template.md
-style-guide.md
+echo "README-template.md" >> .gitignore
+echo "style-guide.md" .gitignore
