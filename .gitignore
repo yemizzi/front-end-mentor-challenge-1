@@ -16,7 +16,7 @@
 .prettierignore
 
 # this ignores the folders
-/design
+design/
 
 # this ignores the defualt readme files
 
